@@ -50,8 +50,3 @@ pip install -r requirements.txt
 - `tratamento_dados.ipynb`
 - `novo_tratamento_dados.ipynb`
 - `aplicacao_modelo.ipynb`
-
-4. Os notebooks contêm explicações e comentários detalhados para orientar você no código e nas análises.
-
-
-
