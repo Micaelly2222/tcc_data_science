@@ -4,7 +4,7 @@ Este repositório contém o código e os dados utilizados no meu TCC (Trabalho d
 
 # Projeto de Previsão de Cumprimento da LRF em Municípios de Mato Grosso
 
-Este projeto tem como objetivo identificar as características que influenciam o cumprimento dos limites estabelecidos pela Lei de Responsabilidade Fiscal (LRF) por parte dos municípios do estado de Mato Grosso, além de desenvolver um modelo preditivo capaz de prever o cumprimento da LRF com base em análise de dados.
+Este projeto tem como objetivo identificar as características que influenciam o cumprimento dos limites estabelecidos pela Lei de Responsabilidade Fiscal (LRF) por parte dos municípios do estado de Mato Grosso, além de desenvolver um modelo capaz de prever o cumprimento da LRF com base em análise de dados.
 
 ## Dados
 
