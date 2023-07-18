@@ -9,6 +9,9 @@ Este projeto tem como objetivo identificar as características que influenciam o
 ## Dados
 
 Os dados utilizados neste projeto abrangem o período de 2017 a 2022 e foram obtidos do Instituto Brasileiro de Geografia e Estatística (IBGE) e do Tribunal de Contas do Estado de Mato Grosso (TCE-MT). Eles incluem informações financeiras, socioeconômicas e educacionais dos municípios de Mato Grosso.
+* Dataset e Glossário disponíveis no Zenodo:
+Micaelly Cristine de Moura Santos. (2023). Dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8159329
+
 
 ## Metodologia
 
