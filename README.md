@@ -2,9 +2,9 @@
 
 Este repositório contém o código e os dados utilizados no meu TCC (Trabalho de Conclusão de Curso) sobre Ciência de Dados realizado no MBA em Data Science da Universidade de São Paulo (USP). O projeto tem como foco analisar e prever o cumprimento da Lei de Responsabilidade Fiscal (LRF) pelos municípios de Mato Grosso, Brasil.
 
-# Projeto de Previsão de Cumprimento da LRF em Municípios de Mato Grosso
+## Visão Geral
 
-Este projeto tem como objetivo identificar as características que influenciam o cumprimento dos limites estabelecidos pela Lei de Responsabilidade Fiscal (LRF) por parte dos municípios do estado de Mato Grosso, além de desenvolver um modelo capaz de prever o cumprimento da LRF com base em análise de dados.
+O objetivo deste projeto é identificar as características que influenciam o cumprimento dos limites estabelecidos pela Lei de Responsabilidade Fiscal (LRF) por parte dos municípios do estado de Mato Grosso. Além disso, busca-se desenvolver um modelo capaz de prever o cumprimento da LRF com base em análise de dados.
 
 ## Dados
 
@@ -12,6 +12,10 @@ Os dados utilizados neste projeto abrangem o período de 2017 a 2022 e foram obt
 * Dataset e Glossário disponíveis no Zenodo:
 Micaelly Cristine de Moura Santos. (2023). Dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8159329
 
+## Requisitos Minimos
+
+* Python (versão 3.6 ou superior)
+* pip install notebook
 
 ## Metodologia
 
