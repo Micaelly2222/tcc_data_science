@@ -15,8 +15,7 @@ Micaelly Cristine de Moura Santos. (2023). Dataset [Data set]. Zenodo. https://d
 ## Requisitos Minimos
 
 * Python (versão 3.6 ou superior)
-* pip install notebook
-
+  
 ## Metodologia
 
 O projeto utiliza técnicas de aprendizado de máquina para realizar a análise e previsão do cumprimento da LRF. A metodologia adotada envolve as seguintes etapas:
