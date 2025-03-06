@@ -2,6 +2,24 @@
 
 Este repositório contém o código e os dados utilizados no meu TCC (Trabalho de Conclusão de Curso) sobre Ciência de Dados realizado no MBA em Data Science da Universidade de São Paulo (USP). O projeto tem como foco analisar e prever o cumprimento da Lei de Responsabilidade Fiscal (LRF) pelos municípios de Mato Grosso, Brasil.
 
+## Publicação do Artigo
+
+Este projeto resultou no artigo **"Previsão do Cumprimento da Lei de Responsabilidade Fiscal por Municípios do Mato Grosso utilizando Random Forest"**, que foi publicado na *Revista Brasileira de Planejamento e Orçamento – RBPO*. 
+
+Para referência acadêmica, veja o formato abaixo:
+
+```bibtex
+@article{micaelly2024previsao,
+  title={Previsão do Cumprimento da Lei de Responsabilidade Fiscal por Municípios do Mato Grosso utilizando Random Forest},
+  author={Micaelly Cristine de Moura Santos},
+  journal={Revista Brasileira de Planejamento e Orçamento – RBPO},
+  year={2024},
+  volume={14},
+  pages={e2410, 1--16},
+  note={Este estudo desenvolve um modelo preditivo utilizando Random Forest para prever o cumprimento da Lei de Responsabilidade Fiscal (LRF) pelos municípios de Mato Grosso em 2022. A análise foi baseada em dados de 2017 a 2021, com variáveis socioeconômicas e financeiras. O modelo atingiu uma precisão de 91,42%, destacando-se na previsão de conformidade fiscal. Os dados foram obtidos do IBGE e do TCE-MT, e os resultados contribuem para um monitoramento mais eficiente das finanças municipais.}
+}
+
+
 ## Visão Geral
 
 O objetivo deste projeto é identificar as características que influenciam o cumprimento dos limites estabelecidos pela Lei de Responsabilidade Fiscal (LRF) por parte dos municípios do estado de Mato Grosso. Além disso, busca-se desenvolver um modelo capaz de prever o cumprimento da LRF com base em análise de dados.
