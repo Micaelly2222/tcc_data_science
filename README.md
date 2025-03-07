@@ -15,7 +15,7 @@ Para referência acadêmica, veja o formato abaixo:
   journal={Revista Brasileira de Planejamento e Orçamento – RBPO},
   year={2024},
   volume={14},
-  pages={1--16},
+  pages={1--16}
 }
 ```
 
