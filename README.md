@@ -15,8 +15,7 @@ Para referência acadêmica, veja o formato abaixo:
   journal={Revista Brasileira de Planejamento e Orçamento – RBPO},
   year={2024},
   volume={14},
-  pages={e2410, 1--16},
-  note={Este estudo desenvolve um modelo preditivo utilizando Random Forest para prever o cumprimento da Lei de Responsabilidade Fiscal (LRF) pelos municípios de Mato Grosso em 2022. A análise foi baseada em dados de 2017 a 2021, com variáveis socioeconômicas e financeiras. O modelo atingiu uma precisão de 91,42%, destacando-se na previsão de conformidade fiscal. Os dados foram obtidos do IBGE e do TCE-MT, e os resultados contribuem para um monitoramento mais eficiente das finanças municipais.}
+  pages={1--16},
 }
 ```
 
